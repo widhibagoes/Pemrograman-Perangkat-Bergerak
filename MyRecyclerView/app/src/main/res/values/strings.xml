@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="hmj_name">HMJ Polines</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>HMJ Elektro</item>
+        <item>HMJ Sipil</item>
+        <item>HMJ Mesin</item>
+        <item>HMJ Akutansi</item>
+        <item>HMJ Administrasi Bisnis</item>
+        <item>UKM PCC</item>
+        <item>UKM Konsep</item>
+        <item>UKM PECC</item>
+        <item>UKM Wapalhi</item>
+        <item>UKM New PLBS FM</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Himpunan Mahasiswa Jurusan Teknik Elektro adalah salah satu Himpunan
+            Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan
+            organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa
+            Jurusan Teknik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan
+            Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Sipil adalah salah satu Himpunan
+            Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi
+            kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan
+            Teknik Sipil untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Mesin adalah salah satu Himpunan
+            Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan
+            organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh
+            mahasiswa Jurusan Teknik Mesin untuk melaksanakan kegiatan Tri Dharma
+            Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Akutansi adalah salah satu Himpunan Mahasiswa
+            Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi
+            kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan
+            akuntansi untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Administrasi Bisnis adalah salah satu Himpunan
+            Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan
+            organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh
+            mahasiswa Jurusan Administrasi Bisnis untuk melaksanakan kegiatan
+            Tri Dharma Perguruan Tinggi.</item>
+        <item>Unit Kegiatan Mahasiswa Polytechnic Computer Club atau biasa disingkat
+            UKM PCC, merupakan organisasi di Politeknik Negeri Semarang yang bergerak
+            di bidang informasi dan teknologi. UKM Polytechnic Computer Club secara
+            eksplisit terbagi menjadi dua bagian inti, yaitu Workshop dan Organisasi.</item>
+        <item>UKM Komunitas Seni Polines merupakan satu-satunya unit kegiatan mahasiswa
+            di Politeknik Negeri Semarang yang bergerak di bidang Kesenian. Nama UKM
+            Komunitas Seni Polines diresmikan pada tanggal 21 Juni 2003. Fungsi UKM
+            KoNSeP adalah sebagai satu-satunya sarana pembangunan dan penyaluran
+            minat dan bakat Mahasiswa Polines dalam bidang seni dan berorganisasi.</item>
+        <item>Berdiri sejak 10 Oktober 1994, UKM PECC bergerak di bidang peningkatan
+            kemampuan berbahasa Inggris bagi mahasiswa Politeknik Negeri Semarang.UKM
+            PECC menerima penghargaan sebagai ORMAWA Terbaik pada tahun 2006/2007/2014 dan
+            Runner-Up ORMAWA Terbaik pada tahun 2011/2012. UKM PECC diklaim sebagai
+            ORMAWA favorit di Politeknik Negeri Semarang</item>
+        <item>WAPALHI (Wahana Pecinta Lingkungan Hidup) didirikan dengan maksud memberikan
+            suatu wadah pembinaan generasi muda yang cinta akan lingkungan hidup dengan
+            menggunakan prinsip TRI DHARMA Perguruan Tinggi. </item>
+        <item>Berdiri pada 13 Februari 1989 dengan nama Polytehnic Limited Broadcasting
+            System (PLBS FM). Mulai saat itu UKM Radio Kampus PLBS FM mulai mengudara
+            dengan peralatan yang sederhana mencoba memberikan warna baru di dalam kampus
+            Politeknik Negeri Semarang khususnya. Dengan tag line sebagai "Campus Info
+            and Music Line", PLBS FM berusaha menjadi sumber info tentang dunia kampus
+            khususnya Politeknik Negeri Semarang, selain itu juga menjadi sebuah warna
+            baru dalam dunia radio non komersil. </item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://i.postimg.cc/QxdcLRBk/hme.jpg</item>
+        <item>https://i.postimg.cc/yxBXSxYw/hms.jpg</item>
+        <item>https://i.postimg.cc/LsL1BS7R/hmm.jpg</item>
+        <item>https://i.postimg.cc/3NS4Jxyj/hmak.jpg</item>
+        <item>https://i.postimg.cc/pLYvD1Z4/hmab.jpg</item>
+        <item>https://i.postimg.cc/8PGrdsgC/pcc.png</item>
+        <item>https://i.postimg.cc/QC3VqYPz/konsep.png</item>
+        <item>https://pbs.twimg.com/profile_images/470749800191651840/CdG3Og_c.jpeg</item>
+        <item>https://www.polines.ac.id/bpm/assets/images/logo/wapalhi.jpeg</item>
+        <item>https://pbs.twimg.com/profile_images/966259830313828352/bkyQGxID_400x400.jpg</item>
+    </string-array>
+
+</resources>
